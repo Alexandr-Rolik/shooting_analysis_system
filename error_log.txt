@@ -1,0 +1,62 @@
+2024-11-25 18:37:08.307997 - Помилка при завантажені даних адміністратора: [Errno 2] No such file or directory: 'admi_data.json'
+2024-11-25 18:37:09.928184 - Помилка при завантажені даних адміністратора: [Errno 2] No such file or directory: 'admi_data.json'
+2024-11-25 18:37:14.377106 - Помилка при завантажені даних адміністратора: [Errno 2] No such file or directory: 'admi_data.json'
+2024-11-25 18:40:36.555071 - Connection to database failed: 'cryptography' package is required for sha256_password or caching_sha2_password auth methods
+2024-11-25 18:40:36.555071 - Error finding user in database: 'NoneType' object has no attribute 'cursor'
+2024-11-25 18:42:32.331998 - Connection to database failed: [Errno 22] Invalid argument
+2024-11-25 18:42:32.334990 - Failed to close connection: [Errno 22] Invalid argument
+2024-11-25 18:48:03.984264 - Connection to database failed: [Errno 22] Invalid argument
+2024-11-25 18:48:03.985296 - Failed to close connection: [Errno 22] Invalid argument
+2024-11-25 20:05:51.220578 - Помилка при перевірці паролю: The password does not match the supplied hash
+2024-11-25 20:09:17.577647 - Помилка при перевірці паролю: The password does not match the supplied hash
+2024-11-29 14:04:10.791534 - Помилка при перевірці паролю: The password does not match the supplied hash
+2024-11-29 14:04:31.868853 - Connection to database failed: [Errno 22] Invalid argument
+2024-11-29 14:04:31.870841 - Failed to close connection: [Errno 22] Invalid argument
+2024-11-29 14:52:39.468807 - Помилка при зчитуванні даних тимчасового файлу: I/O operation on closed file.
+2024-11-29 14:54:09.796871 - Помилка при перевірці паролю: The password does not match the supplied hash
+2024-11-29 16:01:26.117139 - Помилка при зчитуванні даних тимчасового файлу: Expecting value: line 1 column 1 (char 0)
+2024-11-29 16:01:43.339982 - Помилка при зчитуванні даних тимчасового файлу: Expecting value: line 1 column 1 (char 0)
+2024-11-29 16:03:45.838476 - Помилка при зчитуванні даних тимчасового файлу: Expecting value: line 1 column 1 (char 0)
+2024-11-29 16:09:03.225628 - Помилка при зчитуванні даних тимчасового файлу: Expecting value: line 1 column 1 (char 0)
+2024-11-29 16:10:21.598817 - Помилка при зчитуванні даних тимчасового файлу: Expecting value: line 1 column 1 (char 0)
+2024-11-29 16:16:48.310662 - Помилка при зчитуванні даних тимчасового файлу: Expecting value: line 1 column 1 (char 0)
+2024-11-29 16:21:30.782330 - Помилка при зчитуванні даних тимчасового файлу: Expecting value: line 1 column 1 (char 0)
+2024-11-29 16:21:41.078141 - Помилка при зчитуванні даних тимчасового файлу: Expecting value: line 1 column 1 (char 0)
+2024-11-29 16:28:44.648690 - Error getting user data: (1054, "Unknown column 'namer' in 'field list'")
+2024-11-29 16:29:03.368579 - Error getting user data: (1054, "Unknown column 'namer' in 'field list'")
+2024-11-29 16:30:52.943688 - Error getting user data: (1054, "Unknown column 'namer' in 'field list'")
+2024-11-29 16:36:51.174401 - Connection to database failed: [Errno 22] Invalid argument
+2024-11-29 16:36:51.178556 - Failed to close connection: [Errno 22] Invalid argument
+2024-11-29 16:39:24.978255 - Connection to database failed: [Errno 22] Invalid argument
+2024-11-29 16:39:24.981231 - Failed to close connection: [Errno 22] Invalid argument
+2024-11-29 19:01:58.052625 - Connection to database failed: [Errno 22] Invalid argument
+2024-11-29 19:01:58.056128 - Failed to close connection: [Errno 22] Invalid argument
+2024-11-29 19:01:58.286367 - Помилка при перевірці паролю: The password does not match the supplied hash
+2024-11-29 19:02:04.941181 - Connection to database failed: [Errno 22] Invalid argument
+2024-11-29 19:02:04.944131 - Failed to close connection: [Errno 22] Invalid argument
+2024-11-29 19:02:42.843452 - Connection to database failed: [Errno 22] Invalid argument
+2024-11-29 19:02:42.846445 - Failed to close connection: [Errno 22] Invalid argument
+2024-11-29 19:03:47.181442 - Помилка при перевірці паролю: The password does not match the supplied hash
+2024-11-29 20:19:32.846230 - Error fetching all training sessions: (1054, "Unknown column 'idShooter' in 'where clause'")
+2024-11-29 20:46:24.616882 - Error getting instructor data: 'DatabaseManager' object has no attribute 'cursor'
+2024-11-29 20:46:43.721710 - Error getting instructor data: 'DatabaseManager' object has no attribute 'cursor'
+2024-11-29 20:48:16.730214 - Error getting instructor data: 'DatabaseManager' object has no attribute 'cursor'
+2024-11-29 20:50:19.324532 - Error getting instructor data: 'DatabaseManager' object has no attribute 'cursor'
+2024-11-29 20:58:00.522670 - Error getting instructor data: 'DatabaseManager' object has no attribute 'cursor'
+2024-11-29 20:59:28.257129 - Error getting instructor data: 'DatabaseManager' object has no attribute 'cursor'
+2024-11-29 21:03:25.393515 - Error getting instructor data: name 'cursor' is not defined
+2024-11-29 21:06:34.460181 - Помилка при перевірці паролю: The password does not match the supplied hash
+2024-11-30 16:43:22.358137 - Помилка при перевірці паролю: The password does not match the supplied hash
+2024-11-30 16:44:00.252630 - Error fetching hits: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'date FROM hit WHERE idTarget = 1' at line 1")
+2024-11-30 17:04:48.122350 - Error fetching hits: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'date FROM hit WHERE idTarget = 1' at line 1")
+2024-11-30 17:05:01.644273 - Error fetching hits: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'date FROM hit WHERE idTarget = 1' at line 1")
+2024-11-30 17:12:05.482630 - Error fetching hits: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'date FROM hit WHERE idTarget = 1' at line 1")
+2024-11-30 17:17:44.894312 - Помилка при перевірці паролю: The password does not match the supplied hash
+2024-11-30 17:18:26.414578 - Помилка при перевірці паролю: The password does not match the supplied hash
+2024-11-30 21:12:21.383138 - Помилка при перевірці паролю: The password does not match the supplied hash
+2024-12-01 15:56:44.319427 - Помилка при перевірці паролю: The password does not match the supplied hash
+2024-12-01 19:36:15.144078 - Помилка при перевірці паролю: The password does not match the supplied hash
+2024-12-01 23:21:41.542359 - Помилка при перевірці паролю: The password does not match the supplied hash
+2024-12-02 15:10:15.662555 - Помилка при перевірці паролю: The password does not match the supplied hash
+2024-12-02 19:30:10.688711 - Помилка при перевірці паролю: The password does not match the supplied hash
+2024-12-03 16:51:48.350934 - Помилка при перевірці паролю: The password does not match the supplied hash
